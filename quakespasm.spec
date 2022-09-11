@@ -15,6 +15,7 @@ BuildRequires:	libmpg123-devel
 BuildRequires:	libogg-devel
 BuildRequires:	libvorbis-devel
 BuildRequires:	opusfile-devel
+BuildRequires:	pkgconfig
 BuildRequires:	xorg-lib-libX11-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
