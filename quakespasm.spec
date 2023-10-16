@@ -1,11 +1,11 @@
 Summary:	Modern Quake 1 engine based on FitzQuake
 Name:		quakespasm
-Version:	0.96.0
+Version:	0.96.1
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications/Games
 Source0:	http://downloads.sourceforge.net/quakespasm/%{name}-%{version}.tar.gz
-# Source0-md5:	68d21948e58d90cd1c30fdca90acc002
+# Source0-md5:	37ea60a01b5cc852ab7635df89496301
 URL:		http://quakespasm.sourceforge.net/
 BuildRequires:	OpenGL-devel
 BuildRequires:	SDL2-devel
